@@ -12,11 +12,11 @@ Press a hotkey, speak, and the transcribed text appears wherever your cursor is.
 <!-- TODO: Add demo GIF here -->
 <!-- ![Demo](docs/demo.gif) -->
 
-## Why voice_paste over Apple Dictation?
+## Why voice_assistant over Apple Dictation?
 
-Apple's built-in dictation works for basics. voice_paste uses **Whisper large-v3-turbo**, which handles real-world speech significantly better.
+Apple's built-in dictation works for basics. voice_assistant uses **Whisper large-v3-turbo**, which handles real-world speech significantly better.
 
-| | Apple Dictation | voice_paste |
+| | Apple Dictation | voice_assistant |
 |--|:-:|:-:|
 | Languages | ~30 | 99+ |
 | Accents & mixed languages | Limited | Strong (e.g. English + Hindi mid-sentence) |
@@ -240,7 +240,7 @@ Always specify your language explicitly with `--language`. Auto-detection is com
 
 ## Comparison with Alternatives
 
-| Feature | voice_paste | Apple Dictation | Google Voice Typing | Whisper.cpp |
+| Feature | voice_assistant | Apple Dictation | Google Voice Typing | Whisper.cpp |
 |---------|:-----------:|:---------------:|:-------------------:|:-----------:|
 | Offline | Yes | Partial | No | Yes |
 | Privacy | Full | Partial | No | Full |
