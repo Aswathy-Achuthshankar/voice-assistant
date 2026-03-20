@@ -1,4 +1,4 @@
-# voice_paste
+# VOICE ASSISTANT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.13+](https://img.shields.io/badge/Python-3.13+-3776AB.svg)](https://www.python.org/)
